@@ -1,4 +1,5 @@
 # simpleweb
+<!DOCTYPE html>
 <html>
 <head>
 <title>Моя веб-страница</title>
@@ -12,4 +13,3 @@
 <p><font size="3" face="Arial">- Если у тебя нет Лешеньки - НИКАК АХААХА.</font></p>
 </body>
 </html>
-  

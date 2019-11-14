@@ -1,5 +1,4 @@
 # simpleweb
-<!DOCTYPE html>
 <html>
 <head>
 <title>Моя веб-страница</title>
